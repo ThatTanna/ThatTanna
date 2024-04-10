@@ -6,4 +6,4 @@
 - 🏫 Previously studied 6 months in Software Development by NUS-ISS
 - 💼 Open to job opportunities
 
-Portfolio work in progress here: [ThatTanna](https://thattanna.github.io/)
+Portfolio work in progress here: [tannalim.dev](https://tannalim.dev/)
